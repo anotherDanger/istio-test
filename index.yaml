@@ -3,12 +3,22 @@ entries:
   istio-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-03T08:28:33.684739935+07:00"
+    created: "2025-11-03T09:24:20.157771322+07:00"
     description: A Helm chart for Kubernetes
-    digest: c39b9fe3cd77c4ca4039e23635cd28fdfa9d8f9244b8c5b1d789c86dedb49389
+    digest: 82ffc2677ce377d0a962f6da6c12e9c637d708126443c53934da0c6918ba84d1
+    name: istio-test
+    type: application
+    urls:
+    - istio-test-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-03T09:24:20.157522403+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 480ef12b1823c2bf2e87b28742b71f53c4163ced35e7352bd6312ccc12fc40ae
     name: istio-test
     type: application
     urls:
     - istio-test-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-03T08:28:33.684488432+07:00"
+generated: "2025-11-03T09:24:20.156934957+07:00"
